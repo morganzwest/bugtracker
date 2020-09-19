@@ -1,0 +1,8 @@
+README.md
+setup.py
+MZW_Hub.egg-info/PKG-INFO
+MZW_Hub.egg-info/SOURCES.txt
+MZW_Hub.egg-info/dependency_links.txt
+MZW_Hub.egg-info/top_level.txt
+project/__init__.py
+project/connection.py
